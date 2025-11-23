@@ -1,1 +1,1 @@
-vless://548df0d0-9262-45d0-88cc-61928955e3a1@65.109.205.214:443?flow=&host=m.vk.com&path=%2F&type=ws#%5B%F0%9F%87%AB%F0%9F%87%AE%5D%20%5Bvl-no-ws%5D%20%5B251123-132224.072%5D
+trojan://6e6191a3-9a93-4617-859a-8d0ea0fce937@joss.gpj1.web.id:443?path=%2FFree-VPN-CF-Geo-Project%2F81.91.214.85%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=m.vk.com#%5B%F0%9F%87%A8%F0%9F%87%BF%5D%20%5Btr-tl-ws%5D%20%5B251123-131345.086%5D
